@@ -1,7 +1,7 @@
 # Point-Transformer TF2
 Implementation of the <a href="https://arxiv.org/abs/2012.09164">Point Transformer Network</a> especially for Semantic Segmentation, in Tensorflow 2 and Keras.
 
-<img src="./point-transformer.GIF" width="600px"></img>
+<img src="./point-transformer.GIF" width="450px"></img>
 
 ### Citations
 ```bibtex
